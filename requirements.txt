@@ -1,7 +1,4 @@
-anthropic
-fastapi
-uvicorn
-python-dotenv
-pyttsx3
-speech_recognition
-pyaudio
+anthropic==0.7.0
+fastapi==0.109.0
+python-dotenv==1.0.0
+uvicorn==0.27.0
