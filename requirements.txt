@@ -1,0 +1,7 @@
+anthropic
+fastapi
+uvicorn
+python-dotenv
+pyttsx3
+speech_recognition
+pyaudio
